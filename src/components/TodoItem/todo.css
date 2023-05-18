@@ -1,0 +1,18 @@
+.list{
+    display: flex;
+    flex-direction: column;
+}
+.Bekjan {
+    background-color: rgb(238, 231, 231);
+    padding: 6px;
+    height: 40px;
+    /* width: ; */
+    border-radius: 10px;
+}
+.Aktilek{
+    background-color: rgb(15, 17, 19);
+    color: aliceblue;
+    padding: 6px;
+    height: 40px;
+    border-radius: 10px;
+}
